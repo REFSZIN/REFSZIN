@@ -1,34 +1,20 @@
- (〃￣︶￣)人(￣︶￣〃)
+![Visits](https://badges.pufler.dev/visits/refszin/refszin?logo=google-analytics&labelColor=0D0D0F)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yanassis/)
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700;900&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Coda&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet">
     <meta name="Autor" content="Yan" />
 </head>
 
 <body>
-    <header class=" header ">
-        <navbar class="navbar "
-    </header>
     <main class="main ">
-        <h1 style="font-size: 80px "><strong>&#60;SOBREMIM&#62;<strong><br>YAN MATHEUS</h1>
+        <h1 style="font-size: 80px "><strong>&#60; Hello there, I'm Yan Matheus 👨‍💻 &#62;<br></h1>
             <section>
                 <h2>RESUMO</h2>
                     <details>
-                        <p>Formado pelo Instituto Federal de Educação Colégio de Aplicação João XXIII - Juiz de Fora;</p>
-                        <p>Graduando em Ciências Exatas / Ciência da Computação na UFJF;</p>
-                        <p>Atualmente estudando programação web para ser um desenvolvedor Full Stack</p>
+                        <li>Formado pelo Instituto Federal de Educação Colégio de Aplicação João XXIII - Juiz de Fora;</li>
+                        <li>Graduando em Ciências Exatas / Ciência da Computação na UFJF;</li>
+                        <li>Atualmente estudando programação web para ser um desenvolvedor Full Stack</li>
                     </details>
                     </section>
                     <hr>
@@ -36,10 +22,10 @@
                         <h2 id="edu ">EDUCAÇÃO</h2>
                         <details>
                             <p>Colégio de Aplicação João XXII (UFJF), Juiz de Fora, MG</p>
-                            <ol>
+                            <ul>
                                 <li>Ensino Fundamental / Médio;</li>
                                 <li>Fevereiro de 2015 a Dezembro de 2019;</li>
-                            </ol>
+                            </ul>
                             <p>Universidade Federal de Juiz de Fora (UFJF), Juiz de Fora, MG;</p>
                             <ul>
                                 <li>Graduação - Cursando Março de 2020 / Março de 2025;</li>
@@ -49,7 +35,7 @@
                     </section>
                     <hr>
                     <section>
-                        <h2 id="exp ">EXPERIÊNCIA</h2>
+                        <h2>EXPERIÊNCIA</h2>
                         <details>
                             <p>Veículos S.A. / Regional Veículos:</p>
                             <ul>
@@ -68,45 +54,44 @@
                     </section>
                     <hr>
                     <section>
-                        <h2 id="comp ">COMPETÊNCIAS</h2>
+                        <h2>COMPETÊNCIAS</h2>
                         <details>
-                            <p>Office completo;</p>
-                            <p>CSS/HTML</p>
-                            <p>JavaScript</p>
-                            <p>Plugins em Java;</p>
-                            <p>PHP/SQL;</p>
-                            <p>Photoshop e Illustrator;</p>
-                            <p>Administração de Servidores;</p>
-                            <p>Manutenção de computadores;</p>
-                            <p>Digitação.;</p>
-                            <p>Hospedagem web.</p>
+                            <li>Office completo;</li>
+                            <li>CSS/HTML</li>
+                            <li>JavaScript</li>
+                            <li>Plugins em Java;</li>
+                            <li>PHP/SQL;</li>
+                            <li>Photoshop e Illustrator;</li>
+                            <li>Administração de Servidores;</li>
+                         <li>Manutenção de computadores;</li>
+                            <li>Digitação;</li>
+                            <li>Hospedagem web.</li>
                         </details>
                     </section>
                     <hr>
                     <section>
-                        <h2 id="iGIT STATUS">IDIOMAS</h2>
+                        <h2>IDIOMAS</h2>
                         <details>
-                            <p>Inglês Intermediário;</p>
-                            <p>Francês Intermediário;</p>
-                            <p>Espanhol Intermediário;</p>
+                            <li>Inglês Intermediário;</li>
+                            <li>Francês Intermediário;</li>
+                            <li>Espanhol Intermediário;</li>
                         </details>
                     </section>
-                    <footer>
-                        <h3><u>Minhas Redes Sociais</u></h3>
-                        <h4 style="font-size: xx-large; ">
-                            <i class=" glyphicon glyphicon-user "></i>
-                            <a href="https://github.com/REFSZIN ">GITHUB</a>
-                            <br>
-                            <i class="glyphicon glyphicon-cloud "></i>
-                            <a href="https://www.linkedin.com/in/yanassis ">LINKEDIN</a>
-                            <br>
-                            <i class="glyphicon glyphicon-user "></i>
-                            <a href="https://www.facebook.com/Yanzins ">FACE</a>
-                            <br>
-                            <i class="glyphicon glyphicon-envelope "></i>
-                            <a href="https://www.instagram.com/yanhame/ ">INSTA</a>
-                        </h4>
-                    </footer>
+                   <footer>
+                    
+## Softwares, Languages and Tools:
+<div style="display: inline_block">
+<img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
+<img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
+<img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<br/> </div><br>
+                   <a href="https://github.com/refszin">
+                 <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast"/>
+                <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
+              </footer>
             </main>
-</body>
+     </body>
 </html>
