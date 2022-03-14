@@ -90,7 +90,7 @@
 <br/> </div><br>
                    <a href="https://github.com/refszin">
                  <img align="left" height="180px" width= "40%" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast"/>
-                <img align="center" height="170px" width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
+                <img align="center" height="170px" width= "60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
               </footer>
             </main>
      </body>
