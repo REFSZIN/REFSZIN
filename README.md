@@ -104,7 +104,8 @@
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <br/> </div><br>
                    <a href="https://github.com/refszin">
-                 <img align="left" height="180px" width= "40%" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast"/>
+                 <a href="https://wakatime.com/@5f667002-f1a2-4d32-a500-1ec6818a616c"><img src="https://wakatime.com/badge/user/5f667002-f1a2-4d32-a500-1ec6818a616c.svg" alt="Total time coded since Mar 14 2022" /></a>
+                       <img align="left" height="180px" width= "40%" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast"/>
                 <img align="center" height="170px" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
               </footer>
             </main>
