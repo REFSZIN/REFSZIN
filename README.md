@@ -108,5 +108,17 @@
                 <img align="center" height="170px" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
               </footer>
             </main>
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   4 hrs 49 mins   ████████████░░░░░░░░░░░░░   47.87 %
+JavaScript   4 hrs 44 mins   ███████████▓░░░░░░░░░░░░░   47.07 %
+HTML         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+SCSS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+```
+
+<!--END_SECTION:waka-->
      </body>
 </html>
