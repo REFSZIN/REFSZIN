@@ -1,6 +1,7 @@
 ![Visits](https://badges.pufler.dev/visits/refszin/refszin?logo=google-analytics&labelColor=0D0D0F)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yanassis/)
 ![Discord](https://img.shields.io/badge/Discord-Refs8597-%8597DA?style=flat&labelColor=0D0D0D&logo=discord&Color=white)
+[![wakatime](https://wakatime.com/badge/user/5f667002-f1a2-4d32-a500-1ec6818a616c.svg)](https://wakatime.com/@5f667002-f1a2-4d32-a500-1ec6818a616c)
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
