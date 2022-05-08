@@ -102,8 +102,8 @@
 <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <br/></div>
 <br>            
-                       <img align="left" height="180px" width= "40%" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast"/>
-                <img align="center" height="170px" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
+                       <img align="left" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast"/>
+                <img align="right" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
               </footer>
           </main>
      </body>
