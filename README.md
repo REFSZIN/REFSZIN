@@ -2,8 +2,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yanassis/)
 ![Discord](https://img.shields.io/badge/Discord-Refs8597-%8597DA?style=flat&labelColor=0D0D0D&logo=discord&Color=white)
 [![wakatime](https://wakatime.com/badge/user/5f667002-f1a2-4d32-a500-1ec6818a616c.svg)](https://wakatime.com/@5f667002-f1a2-4d32-a500-1ec6818a616c)
-<!DOCTYPE html>
-<html lang="pt-br">
 <head>
     <meta name="Autor" content="Yan" />
 </head>
@@ -79,12 +77,11 @@
                             <li>Espanhol Intermediário;</li>
                         </details>
                     </section>
-                   <footer>
-                    
+            <section>    
 ## Softwares, Languages and Tools:
 <div style="display: inline_block">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/>
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -97,18 +94,17 @@
 </a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
 <img src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/57x57.png" alt="vercel" width="40" height="40"/></a>
-<img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
-<img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
-<img align="center" alt="Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<br/> </div><br>
-                   <a href="https://github.com/refszin">
-                 <a href="https://wakatime.com/@5f667002-f1a2-4d32-a500-1ec6818a616c"><img src="https://wakatime.com/badge/user/5f667002-f1a2-4d32-a500-1ec6818a616c.svg" alt="Total time coded since Mar 14 2022" /></a>
+<img align="center" alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
+<img align="center" alt="Photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
+<img align="center" alt="Github" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<br/></div>
+<br>            
                        <img align="left" height="180px" width= "40%" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast"/>
                 <img align="center" height="170px" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
               </footer>
-            </main>
+          </main>
      </body>
 </html>
