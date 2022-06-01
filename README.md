@@ -1,7 +1,8 @@
+### Contact:
 ![Visits](https://badges.pufler.dev/visits/refszin/refszin?logo=google-analytics&labelColor=0D0D0F)
+[![wakatime](https://wakatime.com/badge/user/5f667002-f1a2-4d32-a500-1ec6818a616c.svg)](https://wakatime.com/@5f667002-f1a2-4d32-a500-1ec6818a616c)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yanassis/)
 ![Discord](https://img.shields.io/badge/Discord-Refs8597-%8597DA?style=flat&labelColor=0D0D0D&logo=discord&Color=white)
-[![wakatime](https://wakatime.com/badge/user/5f667002-f1a2-4d32-a500-1ec6818a616c.svg)](https://wakatime.com/@5f667002-f1a2-4d32-a500-1ec6818a616c)
 <head>
     <meta name="Autor" content="Yan" />
 </head>
@@ -78,7 +79,7 @@
                         </details>
                     </section>
             <section>    
-## Softwares, Languages and Tools:
+<h2>Softwares, Languages and Tools:</h2>
 <div style="display: inline_block">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/>
@@ -92,14 +93,26 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer">
-<img src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/57x57.png" alt="vercel" width="40" height="40"/></a>
-<img align="center" alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
-<img align="center" alt="Photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
-<img align="center" alt="Github" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <div>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&color=F7DF1E&logo=javascript&logoColor=000000" />
+  <img style='margin: 5px;' src="https://img.shields.io/badge/CSS3%20-%2320232a.svg?&style=for-the-badge&color=1572B6&logo=CSS3&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/HTML5%20-%2320232a.svg?&style=for-the-badge&color=E34F26&logo=HTML5&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&color=363636&logo=react&logoColor=q61DAFB"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/node js%20-%2320232a.svg?&style=for-the-badge&color=339933&logo=node.js&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/styled components%20-%2320232a.svg?&style=for-the-badge&color=DB7093&logo=styled-components&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/TypeScript%20-%2320232a.svg?&style=for-the-badge&color=3178C6&logo=TypeScript&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/Mongo db%20-%2320232a.svg?&style=for-the-badge&color=47A248&logo=MongoDB&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/PostgreSQL%20-%2320232a.svg?&style=for-the-badge&color=4169E1&logo=PostgreSQL&logoColor=ffffff"/>
+  
+ 
+  <img style='margin: 5px;' src="https://img.shields.io/badge/visual studio code%20-%2320232a.svg?&style=for-the-badge&color=007ACC&logo=visualstudiocode&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/github%20-%2320232a.svg?&style=for-the-badge&color=000000&logo=GitHub&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/trello%20-%2320232a.svg?&style=for-the-badge&color=0052CC&logo=trello&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/linux%20-%2320232a.svg?&style=for-the-badge&color=FCC624&logo=linux&logoColor=000000"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/npm%20-%2320232a.svg?&style=for-the-badge&color=CB3837&logo=npm&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/Vercel%20-%2320232a.svg?&style=for-the-badge&color=000000&logo=Vercel&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/Mongo Atlas%20-%2320232a.svg?&style=for-the-badge&color=ffffff&logo=MongoDB&logoColor=47A248"/>
+</div>
 <br/></div>
 <br>            
                        <img align="left" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast"/>
