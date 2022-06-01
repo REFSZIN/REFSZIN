@@ -58,9 +58,9 @@
                         <h2>COMPETÊNCIAS</h2>
                         <details>
                             <li>Office completo;</li>
-                            <li>CSS/HTML</li>
+                            <li>CSS/SCSS/HTML/JSX/JavaScript;</li>
                             <li>JavaScript</li>
-                            <li>Plugins em Java;</li>
+                            <li>React</li>
                             <li>PHP/SQL;</li>
                             <li>Photoshop e Illustrator;</li>
                             <li>Administração de Servidores;</li>
