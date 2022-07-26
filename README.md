@@ -1,8 +1,6 @@
 ### Contact:
-![Visits](https://badges.pufler.dev/visits/refszin/refszin?logo=google-analytics&labelColor=0D0D0F)
 [![wakatime](https://wakatime.com/badge/user/5f667002-f1a2-4d32-a500-1ec6818a616c.svg)](https://wakatime.com/@5f667002-f1a2-4d32-a500-1ec6818a616c)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yanassis/)
-![Discord](https://img.shields.io/badge/Discord-Refs8597-%8597DA?style=flat&labelColor=0D0D0D&logo=discord&Color=white)
 <head>
     <meta name="Autor" content="Yan" />
 </head>
@@ -93,6 +91,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
+    <img alt="Figma"  width="40" height="40"" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img alt="ExpressJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
      <div>
   <img style='margin: 5px;' src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&color=F7DF1E&logo=javascript&logoColor=000000" />
   <img style='margin: 5px;' src="https://img.shields.io/badge/CSS3%20-%2320232a.svg?&style=for-the-badge&color=1572B6&logo=CSS3&logoColor=ffffff"/>
@@ -117,6 +117,9 @@
 <br>            
                        <img align="left" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast"/>
                 <img align="right" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
+                <div align="center">
+<img style='margin-top: 55px' src="https://github-readme-stats.vercel.app/api/wakatime?username=refszin&)](https://github.com/anuraghazra/github-readme-stats&bg_color=1,9b111e,000000&layout=compact&hide=php&theme=highcontrast&title_color=fff&text_color=red"/>
+</div>
               </footer>
           </main>
      </body>
