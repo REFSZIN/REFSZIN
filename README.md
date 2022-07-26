@@ -78,7 +78,7 @@
                     </section>
             <section>    
 <h2>Softwares, Languages and Tools:</h2>
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/>
 </a>
@@ -93,7 +93,7 @@
 </a>
     <img alt="Figma"  width="40" height="40"" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img alt="ExpressJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-     <div>
+     </div>
   <img style='margin: 5px;' src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&color=F7DF1E&logo=javascript&logoColor=000000" />
   <img style='margin: 5px;' src="https://img.shields.io/badge/CSS3%20-%2320232a.svg?&style=for-the-badge&color=1572B6&logo=CSS3&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/HTML5%20-%2320232a.svg?&style=for-the-badge&color=E34F26&logo=HTML5&logoColor=ffffff"/>
@@ -110,8 +110,8 @@
   <img style='margin: 5px;' src="https://img.shields.io/badge/trello%20-%2320232a.svg?&style=for-the-badge&color=0052CC&logo=trello&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/linux%20-%2320232a.svg?&style=for-the-badge&color=FCC624&logo=linux&logoColor=000000"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/npm%20-%2320232a.svg?&style=for-the-badge&color=CB3837&logo=npm&logoColor=ffffff"/>
-  <img style='margin: 5px;' src="https://img.shields.io/badge/Vercel%20-%2320232a.svg?&style=for-the-badge&color=000000&logo=Vercel&logoColor=ffffff"/>
-  <img style='margin: 5px;' src="https://img.shields.io/badge/Mongo Atlas%20-%2320232a.svg?&style=for-the-badge&color=ffffff&logo=MongoDB&logoColor=47A248"/>
+  <img align="center" style='margin: 5px;' src="https://img.shields.io/badge/Vercel%20-%2320232a.svg?&style=for-the-badge&color=000000&logo=Vercel&logoColor=ffffff"/>
+  <img  align="center" style='margin: 5px;' src="https://img.shields.io/badge/Mongo Atlas%20-%2320232a.svg?&style=for-the-badge&color=ffffff&logo=MongoDB&logoColor=47A248"/>
 </div>
 <br/></div>
 <br>            
