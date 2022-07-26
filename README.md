@@ -91,6 +91,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
+<img alt="Next.js"  width="40" height="40"src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"/>
     <img alt="Figma"  width="40" height="40"" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img alt="ExpressJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
      </div>
@@ -103,8 +104,6 @@
   <img style='margin: 5px;' src="https://img.shields.io/badge/TypeScript%20-%2320232a.svg?&style=for-the-badge&color=3178C6&logo=TypeScript&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/Mongo db%20-%2320232a.svg?&style=for-the-badge&color=47A248&logo=MongoDB&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/PostgreSQL%20-%2320232a.svg?&style=for-the-badge&color=4169E1&logo=PostgreSQL&logoColor=ffffff"/>
-  
- 
   <img style='margin: 5px;' src="https://img.shields.io/badge/visual studio code%20-%2320232a.svg?&style=for-the-badge&color=007ACC&logo=visualstudiocode&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/github%20-%2320232a.svg?&style=for-the-badge&color=000000&logo=GitHub&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/trello%20-%2320232a.svg?&style=for-the-badge&color=0052CC&logo=trello&logoColor=ffffff"/>
