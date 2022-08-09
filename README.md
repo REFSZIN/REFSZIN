@@ -18,57 +18,6 @@
                     </details>
                     </section>
                     <hr>
-                    <section class="section ">
-                        <h2 id="edu ">EDUCAÇÃO</h2>
-                        <details>
-                            <p>Colégio de Aplicação João XXII (UFJF), Juiz de Fora, MG</p>
-                            <ul>
-                                <li>Ensino Fundamental / Médio;</li>
-                                <li>Fevereiro de 2015 a Dezembro de 2019;</li>
-                            </ul>
-                            <p>Universidade Federal de Juiz de Fora (UFJF), Juiz de Fora, MG;</p>
-                            <ul>
-                                <li>Graduação - Cursando Março de 2020 / Março de 2025;</li>
-                                <li>Curso: Ciências Exatas - Ciência da Computação.</li>
-                            </ul>
-                        </details>
-                    </section>
-                    <hr>
-                    <section>
-                        <h2>EXPERIÊNCIA</h2>
-                        <details>
-                            <p>Veículos S.A. / Regional Veículos:</p>
-                            <ul>
-                                <li>Planejamento;</li>
-                                <li>Implementação de campanhas digitais;</li>
-                                <li>Captação de clientes;</li>
-                                <li>Venda de automóveis;</li>
-                            </ul>
-                            <p>Friends Hamburgueria/ Distribuidora Santo Copo</p>
-                            <ul>
-                                <li>Criação de identidade corporativa;</li>
-                                <li>Elaboração de cardápio online;</li>
-                                <li>Configuração dos cardápios (Uber Eats , Ifood e WhatsApp Business).</li>
-                            </ul>
-                        </details>
-                    </section>
-                    <hr>
-                    <section>
-                        <h2>COMPETÊNCIAS</h2>
-                        <details>
-                            <li>Office completo;</li>
-                            <li>CSS/SCSS/HTML/JSX/JavaScript;</li>
-                            <li>JavaScript</li>
-                            <li>React</li>
-                            <li>PHP/SQL;</li>
-                            <li>Photoshop e Illustrator;</li>
-                            <li>Administração de Servidores;</li>
-                         <li>Manutenção de computadores;</li>
-                            <li>Digitação;</li>
-                            <li>Hospedagem web.</li>
-                        </details>
-                    </section>
-                    <hr>
                     <section>
                         <h2>IDIOMAS</h2>
                         <details>
