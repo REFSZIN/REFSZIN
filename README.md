@@ -11,7 +11,7 @@
         <h1 style="font-size: 80px "><strong>&#60; Hello there, I'm Yan Matheus 👨‍💻 &#62;<br></h1>
             <section>
                 <h2>RESUMO</h2>
-                    <details>
+                    <article>
                         <li>Formado pelo Instituto Federal de Educação Colégio de Aplicação João XXIII - Juiz de Fora;</li>
                         <li>Graduando em Ciências Exatas / Ciência da Computação na UFJF;</li>
                         <li>Atualmente estudando programação web para ser um desenvolvedor Full Stack</li>
