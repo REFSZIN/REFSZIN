@@ -29,21 +29,8 @@
             <section>    
 <h2>Softwares, Languages and Tools:</h2>
 <div style="display: inline_block" align="center">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/>
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<img alt="Next.js"  width="40" height="40"src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"/>
+<img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,redux,tailwind,sass,nodejs,express,mongo" />
     <img alt="Figma"  width="40" height="40"" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img alt="ExpressJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
      </div>
   <img style='margin: 5px;' src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&color=F7DF1E&logo=javascript&logoColor=000000" />
   <img style='margin: 5px;' src="https://img.shields.io/badge/CSS3%20-%2320232a.svg?&style=for-the-badge&color=1572B6&logo=CSS3&logoColor=ffffff"/>
@@ -67,7 +54,8 @@
                        <img align="left" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast"/>
                 <img align="right" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
                 <div align="center">
-<img style='margin-top: 55px' src="https://github-readme-stats.vercel.app/api/wakatime?username=refszin&)](https://github.com/anuraghazra/github-readme-stats&bg_color=1,9b111e,000000&layout=compact&hide=php&theme=highcontrast&title_color=fff&text_color=red"/>
+<img style='margin: 55px ' src="https://github-readme-stats.vercel.app/api/wakatime?username=refszin&)](https://github.com/anuraghazra/github-readme-stats&bg_color=1,9b111e,000000&layout=compact&hide=php&theme=highcontrast&title_color=fff&text_color=red"/>
+<img style="display: inline_block" align="center" style=': 55px' src="https://github-profile-trophy.vercel.app/?username=refszin&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 </div>
               </footer>
           </main>
