@@ -8,7 +8,7 @@
 
 <body>
     <main class="main ">
-        <h1 style="font-size: 80px "><strong>&#60; Hello there, I'm Yan Matheus 👨‍💻 &#62;<br></h1>
+        <h1 style="font-size: 80px "><strong>&#60; Hello there, I'm Yan Matheus 👨‍💻 &#62;<hr></h1>
             <section>
                 <h2>RESUMO</h2>
                     <article>
@@ -16,7 +16,6 @@
                         <li>Graduando em Ciências Exatas / Ciência da Computação na UFJF;</li>
                     </details>
                     </section>
-                    <hr>
                     <section>
                         <h2>IDIOMAS</h2>
                             <li>Inglês Intermediário;</li>
