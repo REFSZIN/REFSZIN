@@ -14,17 +14,14 @@
                     <article>
                         <li>Formado pelo Instituto Federal de Educação Colégio de Aplicação João XXIII - Juiz de Fora;</li>
                         <li>Graduando em Ciências Exatas / Ciência da Computação na UFJF;</li>
-                        <li>Atualmente estudando programação web para ser um desenvolvedor Full Stack</li>
                     </details>
                     </section>
                     <hr>
                     <section>
                         <h2>IDIOMAS</h2>
-                        <details>
                             <li>Inglês Intermediário;</li>
                             <li>Francês Intermediário;</li>
                             <li>Espanhol Intermediário;</li>
-                        </details>
                     </section>
             <section>    
 <h2>Softwares, Languages and Tools:</h2>
