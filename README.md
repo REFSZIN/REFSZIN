@@ -47,11 +47,12 @@
 </div>
 <br/></div>
 <br>            
-                       <img align="left" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast"/>
-                <img align="right" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
+                       <img align="left" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast&margin-w=15&margin-y=15"/>
+                <img align="right" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast&margin-w=15&margin-h=15"/>
                 <div align="center">
-<img style='margin: 55px ' src="https://github-readme-stats.vercel.app/api/wakatime?username=refszin&)](https://github.com/anuraghazra/github-readme-stats&bg_color=1,9b111e,000000&layout=compact&hide=php&theme=highcontrast&title_color=fff&text_color=red"/>
-<img style="display: inline_block" align="center" style=': 55px' src="https://github-profile-trophy.vercel.app/?username=refszin&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+<img style='margin: 55px ' src="https://github-readme-stats.vercel.app/api/wakatime?username=refszin&layout=compact&hide=php&theme=highcontrast")](https://github.com/refszin/github-readme-stats&bg_color=1,9b111e,000000&layout=compact&hide=php&theme=highcontrast&title_color=fff&text_color=black&margin-w=15&margin-h=15"/>
+
+<img style="display: inline_block" align="center" style=': 55px' src="https://github-profile-trophy.vercel.app/?username=refszin&row=1&column=6&theme=onedark&margin-w=15&margin-h=15"/>
 </div>
               </footer>
           </main>
