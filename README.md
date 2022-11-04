@@ -2,7 +2,7 @@
 ### Contact-me:
 [![wakatime](https://wakatime.com/badge/user/5f667002-f1a2-4d32-a500-1ec6818a616c.svg)](https://wakatime.com/@5f667002-f1a2-4d32-a500-1ec6818a616c)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yanassis/)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=grandient&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+👨‍;I'm+have+22+years+old;I'm+from+Brazil;I+Full+Stack+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=grandient&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+👨‍;I'm+have+22+years+old;I'm+from+Brazil;I'm+Full+Stack+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ![stats](https://activity-graph.herokuapp.com/graph?username=refszin&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)
 <head>
     <meta name="Autor" content="Yan" />
