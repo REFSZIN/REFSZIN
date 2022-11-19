@@ -14,7 +14,7 @@
 <body>
     <main class="main ">
             <section>
-                <h2><img width="26" src="https://media3.giphy.com/media/7zGDfw3sSQyZycvSM3/giphy.gif?cid=6c09b952f9rk3eo8gbt3dxt9ffr7w2pq3w8levv949wscdfq&rid=giphy.gif&ct=s">RESUMO</h2># React Native
+                <h2><img width="26" src="https://media3.giphy.com/media/7zGDfw3sSQyZycvSM3/giphy.gif?cid=6c09b952f9rk3eo8gbt3dxt9ffr7w2pq3w8levv949wscdfq&rid=giphy.gif&ct=s">RESUMO</h2>
                     <article>
                         <li>Formado pelo Instituto Federal de Educação Colégio de Aplicação João XXIII - Juiz de Fora;</li>
                         <li>Graduando em Ciências Exatas / Ciência da Computação na UFJF;</li>
