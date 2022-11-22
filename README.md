@@ -15,6 +15,24 @@
             <section>
                 <h2><img width="46" src="https://media3.giphy.com/media/7zGDfw3sSQyZycvSM3/giphy.gif?cid=6c09b952f9rk3eo8gbt3dxt9ffr7w2pq3w8levv949wscdfq&rid=giphy.gif&ct=s">RESUMO</h2>
                     <article>
+                        <li>Olá, prazer me chamo Yan ,✍️</li>
+
+<li><li>Full Stack Web Developer Engineer pela Driven Education, buscando eficiência sempre nas minhas soluções👾 com mais de 40 projetos no Github 👾.</li>
+
+<li>Amo fazer layouts pensando ‘pixel’ a ‘pixel’ com qualidade, oferecendo a melhor experiência de produto para o usuário / cliente, além de ❤️ architectura de projetos.</li>
+
+<li>Sou formado pelo Instituto Federal de Educação Colégio de Aplicação João XXIII / UFJF, graduando em
+Ciências Exatas com ênfase em Ciência da Computação pela UFJF.</li>
+
+<li>Tenho interesse em produzir trabalhos de qualidade, buscando eficiência nas soluções para que as
+minhas tarefas sejam feitas de forma ágil, organizada e objetiva para que o resultado seja o melhor,
+buscando sempre combinar precisão e paciência.</li>
+
+<li>✨ O Júnior de hoje é o sênior de amanhã!</li>
+<li>Além disso, meu sonho é seguir a carreira em especialização DevOps White HAT🎩.</li>
+<li>👨🏻‍💻 Você pode encontrar meus projetos feitos em: https://github.com/REFSZIN</li>
+<li>✉️ Meu e-mail: refwire@gmail.com</li>
+<li>📱 Meu celular: (32) 98489-8132</li>
                         <li>Formado pelo Instituto Federal de Educação Colégio de Aplicação João XXIII - Juiz de Fora;</li>
                         <li>Graduando em Ciências Exatas / Ciência da Computação na UFJF;</li>
                     </details>
