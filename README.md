@@ -13,7 +13,7 @@
 <body>
     <main class="main ">
             <section>
-                <h2><img width="26" src="https://media3.giphy.com/media/7zGDfw3sSQyZycvSM3/giphy.gif?cid=6c09b952f9rk3eo8gbt3dxt9ffr7w2pq3w8levv949wscdfq&rid=giphy.gif&ct=s">RESUMO</h2>
+                <h2><img width="46" src="https://media3.giphy.com/media/7zGDfw3sSQyZycvSM3/giphy.gif?cid=6c09b952f9rk3eo8gbt3dxt9ffr7w2pq3w8levv949wscdfq&rid=giphy.gif&ct=s">RESUMO</h2>
                     <article>
                         <li>Formado pelo Instituto Federal de Educação Colégio de Aplicação João XXIII - Juiz de Fora;</li>
                         <li>Graduando em Ciências Exatas / Ciência da Computação na UFJF;</li>
@@ -22,13 +22,13 @@
          <img width="242" height="180px" align="right" src="https://user-images.githubusercontent.com/95008410/203399148-7a2d2c4f-9739-4240-83f2-ca5df61dd06b.gif">
          <img width="232" height="170px" align="left" src="https://user-images.githubusercontent.com/95008410/203399157-d2799a1a-81ee-482a-84fc-f0219ea27f3a.gif">
                     <section align="center" margin="55px" >
-                        <h2>📝IDIOMAS</h2>
+                        <h2><img width="36" src="https://user-images.githubusercontent.com/95008410/203399154-a4af197a-77e8-4337-98b3-b3201ff505e3.gif">IDIOMAS</h2>
                             <li>Inglês Intermediário;</li>
                             <li>Francês Intermediário;</li>
                             <li>Espanhol Intermediário;</li>
                     </section>
             <section>    
-<h2 style="margin-left: 330px"><img width="26" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif">Softwares, Languages and Tools:</h2>
+<h2 style="margin-left: 330px"><img width="36" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif">Softwares, Languages and Tools:</h2>
 <div style="display: inline_block" align="center">
     <img width="50px" align="left" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
     <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
