@@ -17,7 +17,7 @@
                     <article>
                         <li>Olá, prazer me chamo Yan ,✍️</li>
 
-<li>Full Stack Web Developer Engineer pela Driven Education, buscando eficiência sempre nas minhas soluções👾 com mais de 40 projetos no Github 👾.</li>
+<li>Full Stack Web Developer Engineer pela Driven Education, buscando eficiência sempre nas minhas soluções👾 com mais de 40 projetos no Github e GitLab 👾.</li>
 
 <li>Amo fazer layouts pensando ‘pixel’ a ‘pixel’ com qualidade, oferecendo a melhor experiência de produto para o usuário / cliente, além de ❤️ architectura de projetos.</li>
 
