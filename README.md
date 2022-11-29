@@ -2,6 +2,7 @@
 ### Contact-me:
 [![wakatime](https://wakatime.com/badge/user/5f667002-f1a2-4d32-a500-1ec6818a616c.svg)](https://wakatime.com/@5f667002-f1a2-4d32-a500-1ec6818a616c)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yanassis/)
+[![Beacons](https://img.shields.io/badge/-Beacons-060606?style=flat&labelColor=0D0D0D&logo=Beacons&Color=white)](https://beacons.ai/refszin)
 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26">
 -  <samp> I enjoy learning and applying them to solve real problems and my problems 🎲 </samp>
 - ✍ You can find my projects [here](https://github.com/REFSZIN?tab=repositories).
@@ -19,7 +20,7 @@
 
 <li>Full Stack Web Developer Engineer pela Driven Education, buscando eficiência sempre nas minhas soluções👾 com mais de 40 projetos no Github e GitLab 👾.</li>
 
-<li>Amo fazer layouts pensando ‘pixel’ a ‘pixel’ com qualidade, oferecendo a melhor experiência de produto para o usuário / cliente, além de ❤️ architecture de projetos.</li>
+<li>Amo fazer layouts pensando ‘pixel’ a ‘pixel’ com qualidade, oferecendo a melhor experiência de produto para o usuário / cliente, além de ❤️ architectura de projetos.</li>
 
 <li>Sou formado pelo Instituto Federal de Educação Colégio de Aplicação João XXIII / UFJF, graduando em
 Ciências Exatas com ênfase em Ciência da Computação pela UFJF.</li>
