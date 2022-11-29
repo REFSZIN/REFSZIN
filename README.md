@@ -19,7 +19,7 @@
 
 <li>Full Stack Web Developer Engineer pela Driven Education, buscando eficiência sempre nas minhas soluções👾 com mais de 40 projetos no Github e GitLab 👾.</li>
 
-<li>Amo fazer layouts pensando ‘pixel’ a ‘pixel’ com qualidade, oferecendo a melhor experiência de produto para o usuário / cliente, além de ❤️ architectura de projetos.</li>
+<li>Amo fazer layouts pensando ‘pixel’ a ‘pixel’ com qualidade, oferecendo a melhor experiência de produto para o usuário / cliente, além de ❤️ architecture de projetos.</li>
 
 <li>Sou formado pelo Instituto Federal de Educação Colégio de Aplicação João XXIII / UFJF, graduando em
 Ciências Exatas com ênfase em Ciência da Computação pela UFJF.</li>
