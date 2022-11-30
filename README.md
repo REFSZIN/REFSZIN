@@ -73,15 +73,3 @@ buscando sempre combinar precisão e paciência.</li>
   <img width=100% height="120px" align="right" src="https://user-images.githubusercontent.com/95008410/203399204-aa7e74e8-eea9-4d0d-9aae-fb25bbc68c46.png">
                     <section>                                                                                                
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-                                                                                                                
-<!--START_SECTION:waka-->
-
-```text
-Total Time: 344 hrs 32 mins
-TypeScript   172 hrs 24 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.66 %
-JavaScript   115 hrs 9 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.50 %
-JSON         18 hrs 53 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.33 %
-Other        9 hrs 47 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.76 %
-```
-
-<!--END_SECTION:waka-->
