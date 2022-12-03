@@ -7,7 +7,6 @@
 -  <samp> I enjoy learning and applying them to solve real problems and my problems 🎲 </samp>
 - ✍ You can find my projects [here](https://github.com/REFSZIN?tab=repositories).
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=grandient&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+👨‍;I'm+have+22+years+old+✨;I'm+from+Brazil;I'm+Full+Stack+Development+✍;Be+Welcome!+:%29)](https://git.io/typing-svg)<br/>
-![stats](https://activity-graph.herokuapp.com/graph?username=refszin&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)
 <head>
     <meta name="Autor" content="Yan" />
 </head>
