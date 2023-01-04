@@ -48,7 +48,7 @@ buscando sempre combinar precisão e paciência.</li>
 <div style="display: inline_block" align="center">
     <img width="50px" align="left" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
     <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
-<img align="center" src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,redux,tailwind,sass,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,c,cpp,deno,discord,docker,gcp,github,heroku,instagram,jest,jquery,kubernetes,linkedin,nextjs,prisma,regex,redux,stackoverflow,webpack,gitlab,grafana,prometheus,vue,vite,firebase" />
+<img align="center" src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,redux,tailwind,sass,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,c,cpp,deno,discord,docker,gcp,github,heroku,instagram,jest,jquery,kubernetes,linkedin,nextjs,prisma,regex,redux,stackoverflow,webpack,gitlab,grafana,prometheus,vue,vite,firebase,redis" />
   
 <br/>
     
