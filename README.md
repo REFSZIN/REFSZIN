@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yanassis/)
 [![Beacons](https://img.shields.io/badge/-Beacons-060606?style=flat&labelColor=0D0D0D&logo=Beacons&Color=white)](https://beacons.ai/refszin)
 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26">
+<img width="320px" height="180px" align="right" src="https://user-images.githubusercontent.com/95008410/210690470-90df5c99-2164-4b1c-8c9e-1f53a07d1d93.gif">
 -  <samp> I enjoy learning and applying them to solve real problems and my problems 🎲 </samp>
 - ✍ You can find my projects [here](https://github.com/REFSZIN?tab=repositories).
 <head>
