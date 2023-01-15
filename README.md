@@ -9,6 +9,7 @@
 <img width="320px" height="180px" align="right" src="https://user-images.githubusercontent.com/95008410/210690470-90df5c99-2164-4b1c-8c9e-1f53a07d1d93.gif">
 -  <samp> I enjoy learning and applying them to solve real problems and my problems 🎲 </samp>
 - ✍ You can find my projects [here](https://github.com/REFSZIN?tab=repositories).
+- 📄 You can see my CV [here](https://docs.google.com/gview?url=https://github.com/REFSZIN/REFSZIN/raw/gh-pages/Curriculo%20Yan%20Matheus.pdf&embedded=true).
 <head>
     <meta name="Autor" content="Yan" />
 </head>
@@ -32,7 +33,7 @@ buscando sempre combinar precisão e paciência.</li>
 
 <li>✨ O Júnior de hoje é o sênior de amanhã!</li>
 <li>Além disso, meu sonho é seguir a carreira em especialização DevOps White HAT🎩.</li>
-<li>👨🏻‍💻 Você pode encontrar meus projetos feitos em: https://github.com/REFSZIN</li>
+<li>👨🏻‍💻 Você pode encontrar meus projetos feitos https://github.com/REFSZIN?tab=repositories </li>
 <li>✉️ Meu e-mail: refwire@gmail.com</li>
 <li>📱 Meu celular: (32) 98489-8132</li>
                     </details>
@@ -53,7 +54,6 @@ buscando sempre combinar precisão e paciência.</li>
 <img align="center" src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,c,cpp,deno,discord,docker,gcp,github,heroku,instagram,jest,jquery,kubernetes,linkedin,nextjs,prisma,regex,redux,stackoverflow,webpack,gitlab,grafana,prometheus,vue,vite,firebase,redis,java,svelte,idea,gcp,ai,ps,kubernetes,mysql,vim,figma" />
   
 <br/>
-    
 <br>            
                        <img align="left" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast&margin-w=15&margin-y=15"/>
                 <img align="right" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast&margin-w=15&margin-h=15"/>
