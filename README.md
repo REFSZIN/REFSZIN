@@ -35,7 +35,6 @@ buscando sempre combinar precisão e paciência.</li>
 <li>Além disso, meu sonho é seguir a carreira em especialização DevOps White HAT🎩.</li>
 <li>👨🏻‍💻 Você pode encontrar meus projetos feitos https://github.com/REFSZIN?tab=repositories </li>
 <li>✉️ Meu e-mail: refwire@gmail.com</li>
-<li>📱 Meu celular: (32) 98489-8132</li>
                     </details>
                     </section>
          <img width="242" height="180px" align="right" src="https://user-images.githubusercontent.com/95008410/203399148-7a2d2c4f-9739-4240-83f2-ca5df61dd06b.gif">
