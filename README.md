@@ -33,7 +33,6 @@ buscando sempre combinar precisão e paciência.</li>
 
 <li>✨ O Júnior de hoje é o sênior de amanhã!</li>
 <li>Além disso, meu sonho é seguir a carreira em especialização DevOps White HAT🎩.</li>
-<li>👨🏻‍💻 Você pode encontrar meus projetos feitos https://github.com/REFSZIN?tab=repositories </li>
 <li>✉️ Meu e-mail: refwire@gmail.com</li>
                     </details>
                     </section>
