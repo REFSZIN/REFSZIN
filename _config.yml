@@ -6,9 +6,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: REFSZIN
+title: README PLS 🗿🍷
+email: refwire@gmail.com
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -19,8 +19,8 @@ website: Your website (eg. https://google.com)(optional)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: r3fw4r3
+github_username:  refszin
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll
