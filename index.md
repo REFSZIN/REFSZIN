@@ -33,9 +33,7 @@ buscando sempre combinar precisão e paciência.</li>
 
 <li>✨ O Júnior de hoje é o sênior de amanhã!</li>
 <li>Além disso, meu sonho é seguir a carreira em especialização DevOps White HAT🎩.</li>
-<li>👨🏻‍💻 Você pode encontrar meus projetos feitos https://github.com/REFSZIN?tab=repositories </li>
 <li>✉️ Meu e-mail: refwire@gmail.com</li>
-<li>📱 Meu celular: (32) 98489-8132</li>
                     </details>
                     </section>
          <img width="242" height="180px" align="right" src="https://user-images.githubusercontent.com/95008410/203399148-7a2d2c4f-9739-4240-83f2-ca5df61dd06b.gif">
@@ -51,7 +49,7 @@ buscando sempre combinar precisão e paciência.</li>
 <div style="display: inline_block" align="center">
     <img width="50px" align="left" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
     <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
-<img align="center" src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,c,cpp,deno,discord,docker,gcp,github,heroku,instagram,jest,jquery,kubernetes,linkedin,nextjs,prisma,regex,redux,stackoverflow,webpack,gitlab,grafana,prometheus,vue,vite,firebase,redis,java,svelte,idea,gcp,ai,ps,kubernetes,mysql,vim,figma" />
+<img align="center" src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,c,cpp,deno,discord,docker,gcp,github,heroku,instagram,jest,jquery,kubernetes,linkedin,nextjs,prisma,regex,redux,stackoverflow,webpack,gitlab,grafana,prometheus,vue,vite,firebase,redis,java,svelte,idea,gcp,ai,ps,mysql,vim,figma,jenkins,cassandra,cloudflare,emotion,maven,powershell,materialui" />
   
 <br/>
 <br>            
@@ -59,13 +57,8 @@ buscando sempre combinar precisão e paciência.</li>
                 <img align="right" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast&margin-w=15&margin-h=15"/>
     <img width="56" src ="https://media0.giphy.com/media/AynUwd5uKhIevEWx54/200w.webp?cid=790b7611lxb7nnp4aqvgycb6o4olthbhsaxi4ctxknvml3wz&rid=200w.webp&ct=s" >
                 <div align="center">
-<img style='margin: 55px ' src="https://github-readme-stats.vercel.app/api/wakatime?username=refszin&layout=compact&hide=php&theme=highcontrast")](https://github.com/refszin/github-readme-stats&bg_color=1,9b111e,000000&layout=compact&hide=php&theme=highcontrast&title_color=fff&text_color=black&margin-w=15&margin-h=15"/>
 <img style="display: inline_block" align="center" style=': 55px' src="https://github-profile-trophy.vercel.app/?username=refszin&row=1&column=6&theme=onedark&margin-w=15&margin-h=15"/>
 </div>
-              </footer>
-          </main>
-     </body>
-</html>
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{refszin}/count.svg" /></p> 
