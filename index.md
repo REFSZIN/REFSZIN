@@ -61,7 +61,6 @@ buscando sempre combinar precisão e paciência.</li>
 </div>
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{refszin}/count.svg" /></p> 
-  <img width=100% height="120px" align="right" src="https://user-images.githubusercontent.com/95008410/203399204-aa7e74e8-eea9-4d0d-9aae-fb25bbc68c46.png">
-                    <section>                                                                                                
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{refszin}/count.svg" />
+  <img width=100% height="120px" align="right" src="https://user-images.githubusercontent.com/95008410/203399204-aa7e74e8-eea9-4d0d-9aae-fb25bbc68c46.png"/>                                                                                         
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
