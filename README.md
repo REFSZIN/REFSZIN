@@ -57,13 +57,8 @@ buscando sempre combinar precisão e paciência.</li>
                 <img align="right" height="180px" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast&margin-w=15&margin-h=15"/>
     <img width="56" src ="https://media0.giphy.com/media/AynUwd5uKhIevEWx54/200w.webp?cid=790b7611lxb7nnp4aqvgycb6o4olthbhsaxi4ctxknvml3wz&rid=200w.webp&ct=s" >
                 <div align="center">
-<img style='margin: 55px ' src="https://github-readme-stats.vercel.app/api/wakatime?username=refszin&layout=compact&hide=php&theme=highcontrast")](https://github.com/refszin/github-readme-stats&bg_color=1,9b111e,000000&layout=compact&hide=php&theme=highcontrast&title_color=fff&text_color=black&margin-w=15&margin-h=15"/>
 <img style="display: inline_block" align="center" style=': 55px' src="https://github-profile-trophy.vercel.app/?username=refszin&row=1&column=6&theme=onedark&margin-w=15&margin-h=15"/>
 </div>
-              </footer>
-          </main>
-     </body>
-</html>
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{refszin}/count.svg" /></p> 
