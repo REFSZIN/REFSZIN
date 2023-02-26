@@ -34,10 +34,6 @@ buscando sempre combinar precisão e paciência.</li>
 <li>✨ O Júnior de hoje é o sênior de amanhã!</li>
 <li>Além disso, meu sonho é seguir a carreira em especialização DevOps White HAT🎩.</li>
 <li>✉️ Meu e-mail: refwire@gmail.com</li>
-                    </details>
-                    </section>
-         <img width="242" height="180px" align="right" src="https://user-images.githubusercontent.com/95008410/203399148-7a2d2c4f-9739-4240-83f2-ca5df61dd06b.gif">
-         <img width="232" height="170px" align="left" src="https://user-images.githubusercontent.com/95008410/203399157-d2799a1a-81ee-482a-84fc-f0219ea27f3a.gif">
                     <section align="center" margin="55px" >
                         <h2><img width="36" src="https://user-images.githubusercontent.com/95008410/203399154-a4af197a-77e8-4337-98b3-b3201ff505e3.gif">IDIOMAS</h2>
                             <li>Inglês Intermediário;</li>
@@ -49,7 +45,7 @@ buscando sempre combinar precisão e paciência.</li>
 <div style="display: inline_block" align="center">
     <img width="50px" align="left" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
     <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
-<img align="center" src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,c,cpp,deno,discord,docker,gcp,github,heroku,instagram,jest,jquery,kubernetes,linkedin,nextjs,prisma,regex,redux,stackoverflow,webpack,gitlab,grafana,prometheus,vue,vite,firebase,redis,java,svelte,idea,gcp,ai,ps,mysql,vim,figma,jenkins,cassandra,cloudflare,emotion,maven,powershell,materialui" />
+<img align="center" width="fit-content" src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,c,cpp,deno,discord,docker,gcp,github,heroku,instagram,jest,jquery,kubernetes,linkedin,nextjs,prisma,regex,redux,stackoverflow,webpack,gitlab,grafana,prometheus,vue,vite,firebase,redis,java,svelte,idea,gcp,ai,ps,mysql,vim,figma,jenkins,cassandra,cloudflare,emotion,maven,powershell,materialui" />
   
 <br/>
 <br>            
