@@ -1,3 +1,24 @@
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="description" content="Single-Page Application (SPA) para PORTFÓLIO, Router, Material Ui, Animate.css, TS and JavaScript!">
+  <meta name="keywords" content="Single-Page Application (SPA) para PORTFÓLIO">
+  <meta name="color-scheme" content="dark">
+  <meta name="author" content="https://github.com/REFSZIN/">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+  <title> PORTFÓLIO REFSZIN </title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+
 ![waving](https://capsule-render.vercel.app/api?type=waving&width=100%&height=200&text=REFSZIN%20&fontAlignY=40&color=gradient)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=grandient&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+🍷🗿;I'm+22+years+old+✨;I'm+from+Brazil;I'm+a+Full+Stack+Developer+✍;Welcome!+:%29)](https://git.io/typing-svg)<br/>
 ### Contact-me:
