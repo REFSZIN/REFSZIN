@@ -16,14 +16,14 @@ website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: r3fw4r3
 github_username:  refszin
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
-facebook_username: jekyll
+facebook_username: yanzin
 flickr_username: jekyll
 instagram_username: jekyll
 linkedin_username: jekyll
