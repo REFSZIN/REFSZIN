@@ -1,3 +1,4 @@
+
 <head>
   <meta charset="UTF-8"/>
   <meta name="description" content="Single-Page Application (SPA) para PORTFÓLIO, Router, Material Ui, Animate.css, TS and JavaScript!">
@@ -31,12 +32,12 @@
 - ✍ You can find my projects [here](https://github.com/REFSZIN?tab=repositories).
 - 📄 You can see my CV [here](https://docs.google.com/gview?url=https://github.com/REFSZIN/REFSZIN/raw/gh-pages/Curriculo%20Yan%20Matheus.pdf&embedded=true).
 <head>
-    <meta name="Autor" content="Yan" />
+    <meta name="Autor" content="Yan"  />
 </head>
-<body>
-    <main class="main ">
+<body background-color="#336655">
+    <main class="main" background-color="#336655">
             <section>
-                <h2><img width="46" src="https://media3.giphy.com/media/7zGDfw3sSQyZycvSM3/giphy.gif?cid=6c09b952f9rk3eo8gbt3dxt9ffr7w2pq3w8levv949wscdfq&rid=giphy.gif&ct=s">RESUMO</h2>
+                <h2><img background-color="#336655" width="46" src="https://media3.giphy.com/media/7zGDfw3sSQyZycvSM3/giphy.gif?cid=6c09b952f9rk3eo8gbt3dxt9ffr7w2pq3w8levv949wscdfq&rid=giphy.gif&ct=s">RESUMO</h2>
                     <article>
                         <li>Olá, prazer me chamo Yan ,✍️</li>
 
@@ -55,17 +56,17 @@ buscando sempre combinar precisão e paciência.</li>
 <li>Além disso, meu sonho é seguir a carreira em especialização DevOps White HAT🎩.</li>
 <li>✉️ Meu e-mail: refwire@gmail.com</li>
                     <section align="center" margin="55px" >
-                        <h2><img width="36" src="https://user-images.githubusercontent.com/95008410/203399154-a4af197a-77e8-4337-98b3-b3201ff505e3.gif">IDIOMAS</h2>
+                        <h2><img width="36" background-color="#336655" src="https://user-images.githubusercontent.com/95008410/203399154-a4af197a-77e8-4337-98b3-b3201ff505e3.gif">IDIOMAS</h2>
                             <li>Inglês Intermediário;</li>
                             <li>Francês Intermediário;</li>
                             <li>Espanhol Intermediário;</li>
                     </section>
             <section>    
-<h2 style="margin-left: 330px"><img width="36" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif">Softwares, Languages and Tools:</h2>
+<h2 background-color="#336655" style="margin-left: 330px"><img width="36" background-color="#336655" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif">Softwares, Languages and Tools:</h2>
 <div style="display: inline_block" align="center">
     <img width="50px" align="left" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
     <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
-<img align="center" width="fit-content" src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,c,cpp,deno,discord,docker,gcp,github,heroku,instagram,jest,jquery,kubernetes,linkedin,nextjs,prisma,regex,redux,stackoverflow,webpack,gitlab,grafana,prometheus,vue,vite,firebase,redis,java,svelte,idea,gcp,ai,ps,mysql,vim,figma,jenkins,cassandra,cloudflare,emotion,maven,powershell,materialui" />
+<img  background-color="#336655"align="center" width="fit-content" src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,c,cpp,deno,discord,docker,gcp,github,heroku,instagram,jest,jquery,kubernetes,linkedin,nextjs,prisma,regex,redux,stackoverflow,webpack,gitlab,grafana,prometheus,vue,vite,firebase,redis,java,svelte,idea,gcp,ai,ps,mysql,vim,figma,jenkins,cassandra,cloudflare,emotion,maven,powershell,materialui" />
   
 <br/>
 <br>            
