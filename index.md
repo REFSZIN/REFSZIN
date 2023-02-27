@@ -15,7 +15,7 @@
 [![Beacons](https://img.shields.io/badge/-Beacons-060606?style=flat&labelColor=0D0D0D&logo=Beacons&Color=white)](https://beacons.ai/refszin)
 
 - <samp> I enjoy to lear and aply the new knowledge to solve mine and other people real problems 🎲 </samp>
-- ✍ You can find my projects <a href="https://github.com/REFSZIN?tab=repositories" target="_blank">Here</a>
+- ✍ You can find my projects in GitHub
 - 📄 You can see my CV <a href="https://docs.google.com/gview?url=https://github.com/REFSZIN/REFSZIN/raw/gh-pages/Curriculo%20Yan%20Matheus.pdf&embedded=true" target="_blank">Here</a>
 
 <head>
