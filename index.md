@@ -20,13 +20,10 @@
 <head>
     <meta name="Autor" content="Yan"  />
 </head>
-<body >
-    <main class="main">
-            <section>
-                <h2>
-                    <img width="46" src="https://media3.giphy.com/media/7zGDfw3sSQyZycvSM3/giphy.gif?cid=6c09b952f9rk3eo8gbt3dxt9ffr7w2pq3w8levv949wscdfq&rid=giphy.gif&ct=s">
-                    RESUMO
-                </h2>
+    <h2>
+        <img width="46" src="https://media3.giphy.com/media/7zGDfw3sSQyZycvSM3/giphy.gif?cid=6c09b952f9rk3eo8gbt3dxt9ffr7w2pq3w8levv949wscdfq&rid=giphy.gif&ct=s">
+    RESUMO
+    </h2>
 <li>Olá, prazer me chamo Yan ,✍️</li>
 
 <li>Full Stack Web Developer Engineer pela Driven Education, buscando eficiência sempre nas minhas soluções👾 com mais de 40 projetos no Github e GitLab 👾.</li>
@@ -43,12 +40,14 @@ minhas tarefas sejam feitas de forma ágil, organizada e objetiva para que o res
 
 <li>Além disso, meu sonho é seguir a carreira em especialização DevOps White HAT🎩.</li>
 <li>✉️ Meu e-mail: refwire@gmail.com</li>
-                    <article>
-                    <section align="center" margin="55px" >
-                        <h2><img width="36" src="https://user-images.githubusercontent.com/95008410/203399154-a4af197a-77e8-4337-98b3-b3201ff505e3.gif">IDIOMAS</h2>
-                            <li>Inglês Intermediário;</li>
-                            <li>Francês Intermediário;</li>
-                            <li>Espanhol Intermediário;</li>
+'    <section align="center" margin="55px" >
+    <h2>
+        <img width="36" src="https://user-images.githubusercontent.com/95008410/203399154-a4af197a-77e8-4337-98b3-b3201ff505e3.gif">
+        IDIOMAS
+    </h2>
+    <li>Inglês Intermediário;</li>
+    <li>Francês Intermediário;</li>
+    <li>Espanhol Intermediário;</li>'
 <h2>
     <img width="36"  src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"/>
     Softwares, Languages and Tools:
@@ -59,10 +58,12 @@ minhas tarefas sejam feitas de forma ágil, organizada e objetiva para que o res
     <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast&margin-w=15&margin-y=15"/>
     <img  align="center" style='margin-top: 55px ' src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast&margin-w=15&margin-h=15"/>
-    <div align="center">
-<img align="center" style='margin-top: 55px ' src="https://github-profile-trophy.vercel.app/?username=refszin&row=1&column=6&theme=onedark&margin-w=15&margin-h=15"/>
-<div align="center">
-                <img  align="center" style='margin-top: 55px ' src="https://github-readme-stats.vercel.app/api/wakatime?username=refszin&layout=compact&hide=php&theme=highcontrast")](https://github.com/refszin/github-readme-stats&bg_color=1,9b111e,000000&layout=compact&hide=php&theme=highcontrast&title_color=fff&text_color=black&margin-w=15&margin-h=15"/>
-<br><p align="center"><b><img style="display: flex" align="center" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26">Visitors Count</b></p>  
+    <img align="center" style='margin-top: 55px ' src="https://github-profile-trophy.vercel.app/?username=refszin&row=1&column=6&theme=onedark&margin-w=15&margin-h=15"/>
+    <img  align="center" style='margin-top: 55px ' src="https://github-readme-stats.vercel.app/api/wakatime?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
+    <br>
+<p align="center">
+    <img style="display: flex" align="center" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26">
+    Visitors Count
+</p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{refszin}/count.svg" />
-       <img  align="center"src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,c,cpp,deno,discord,docker,gcp,github,heroku,instagram,jest,jquery,kubernetes,linkedin,nextjs,prisma,regex,redux,stackoverflow,webpack,gitlab,grafana,prometheus,vue,vite,firebase,redis,java,svelte,idea,gcp,ai,ps,mysql,vim,figma,jenkins,cassandra,cloudflare,emotion,maven,powershell,materialui">
+</div>
