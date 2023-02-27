@@ -1,8 +1,11 @@
 <style>
-    html & *{
+    *{
         background-color: ##000000;
         background: ##000000;
     }
+    html, body {        
+        background-color: ##000000;
+        background: ##000000;}
     * > ::-webkit-scrollbar {
         display: none
         }
