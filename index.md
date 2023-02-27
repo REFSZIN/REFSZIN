@@ -1,6 +1,6 @@
 <style>
     *{
-        background-color: linear-gradient(30deg,#000000 76.72%,rgba(0,0,0,.8) 12.21%);
+        background-color: #323232
     }
 </style>
 
