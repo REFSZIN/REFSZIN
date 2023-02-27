@@ -20,10 +20,12 @@
 <head>
     <meta name="Autor" content="Yan"  />
 </head>
+    <div>
     <h2>
     <img width="46" src="https://media3.giphy.com/media/7zGDfw3sSQyZycvSM3/giphy.gif?cid=6c09b952f9rk3eo8gbt3dxt9ffr7w2pq3w8levv949wscdfq&rid=giphy.gif&ct=s"/>
     RESUMO
     </h2>
+    </div>
 <li>Olá, prazer me chamo Yan ,✍️</li>
 
 <li>Full Stack Web Developer Engineer pela Driven Education, buscando eficiência sempre nas minhas soluções👾 com mais de 40 projetos no Github e GitLab 👾.</li>
@@ -40,7 +42,7 @@ minhas tarefas sejam feitas de forma ágil, organizada e objetiva para que o res
 
 <li>Além disso, meu sonho é seguir a carreira em especialização DevOps White HAT🎩.</li>
 <li>✉️ Meu e-mail: refwire@gmail.com</li>
-    <section align="center" margin="55px" >
+    <section align="center" margin="55px"/>
     <h2 >
         <img width="36" src="https://user-images.githubusercontent.com/95008410/203399154-a4af197a-77e8-4337-98b3-b3201ff505e3.gif">
         IDIOMAS
@@ -48,7 +50,6 @@ minhas tarefas sejam feitas de forma ágil, organizada e objetiva para que o res
     <li>Inglês Intermediário</li>
     <li>Francês Intermediário</li>
     <li>Espanhol Intermediário</li>
-    </section>
 <h2  align="center" width="100%">
     <img width="36"  src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"/>
     Softwares, Languages and Tools:
@@ -62,8 +63,8 @@ minhas tarefas sejam feitas de forma ágil, organizada e objetiva para que o res
     <img align="center" style='margin-top: 55px ' src="https://github-profile-trophy.vercel.app/?username=refszin&row=1&column=6&theme=onedark&margin-w=15&margin-h=15"/>
     <img  align="center" style='margin-top: 55px ' src="https://github-readme-stats.vercel.app/api/wakatime?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
     </div>
-    <br>
 <p align="center">
+    <br/>
     <img style="display: flex" align="center" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26">
     Visitors Count
 </p>  
