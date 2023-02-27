@@ -21,23 +21,41 @@
 <head>
     <meta name="Autor" content="Yan"  />
 </head>
-<h2>RESUMO</h2>
+<h2 style='margin-top: 15px '>RESUMO</h2>
 <li>Olá, prazer me chamo Yan ,✍️</li>
 
 <li>Full Stack Web Developer Engineer pela Driven Education, buscando eficiência sempre nas minhas soluções👾 com mais de 40 projetos no Github e GitLab 👾.</li>
-
-<li>Amo fazer layouts pensando ‘pixel’ a ‘pixel’ com qualidade, oferecendo a melhor experiência de produto para o usuário / cliente, além de ❤️ architectura de projetos.</li>
-
-<li>Sou formado pelo Instituto Federal de Educação Colégio de Aplicação João XXIII / UFJF, graduando em
-Ciências Exatas com ênfase em Ciência da Computação pela UFJF.</li>
-
 <li>Tenho interesse em produzir trabalhos de qualidade, buscando eficiência nas soluções para que as
 minhas tarefas sejam feitas de forma ágil, organizada e objetiva para que o resultado seja o melhor,buscando sempre combinar precisão e paciência.</li>
 
-<li>✨ O Júnior de hoje é o sênior de amanhã!</li>
+<li>Amo fazer layouts pensando ‘pixel’ a ‘pixel’ com qualidade, oferecendo a melhor experiência de produto para o usuário / cliente, além de ❤️ arquitetura de projetos.</li>
 
-<li>Além disso, meu sonho é seguir a carreira em especialização DevOps White HAT🎩.</li>
-<li>✉️ Meu e-mail: refwire@gmail.com</li>
+<li>Sou formado pelo Instituto Federal de Educação Colégio de Aplicação João XXIII / UFJF, graduando em
+Ciências Exatas com ênfase em Ciência da Computação pela UFJF e certificação UI/UX pelo Google.</li>
+<li>✨ O Júnior de hoje é o sênior de amanhã!</li>
+<li>Além disso, meu sonho é  a carreira em especialização DevOps White HAT🎩.</li>
+
+<h2 style='margin-top: 15px '>Driven Education</h2>
+
+Nessa formação intensa e imersiva de +1200h focadas em projetos práticos, fiz +40 projetos utilizando Typescript, Javascript, React, NodeJs, PostgresSQL.
+Jest e Supertest para teste de integração, Jest para teste unitário e para testes ponta a ponta,
+
+Hard-Skills:
+ - Desenvolvimento Web Full Stack;
+ - Fundamentos da Computação: Algoritmos, Estrutura de Dados, Orientação a Objetos, MVC, Programação Funcional e Lógica.
+
+Soft-Skills: 
+ - Métodos Ágeis: Git, Scrum, Kanban, Pair Programming, Code Review, Refactoring.
+ - Desenvolvimento Soft-Skills;
+
+Carreira:
+ - Desenvolvimento de Carreira.
+ - Métodos Ágeis: Git, Scrum, Kanban, Pair Programming, Code Review, Refactoring.
+
+<h2 style='margin-top: 15px '>Desenvolvedor Freelancer</h2>
+Building Front-end Aplication with Vue.js.
+The first being a pure Vue.js front end product for real estate, connecting to the new API being built by another team.
+<li style='margin-top: 25px '>✉️ Meu e-mail: refwire@gmail.com</li>
 <h2  align="center" width="100%" style='margin-top: 55px '>
     <img width="36"  src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"/>
     Softwares, Languages and Tools:
