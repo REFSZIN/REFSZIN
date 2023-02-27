@@ -6,6 +6,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&width=100vw&height=100&%20&fontAlignY=40&color=gradient)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=grandient&size=45&center=true&vCenter=true&width=1000&lines=Hello+There+🍷🗿;I'm+22+years+old+✨;I'm+from+Brazil;I'm+a+Full+Stack+Developer+✍;Welcome!+:%29)](https://git.io/typing-svg)<br/>
+
 ### Contact-me
 
 [![wakatime](https://wakatime.com/badge/user/5f667002-f1a2-4d32-a500-1ec6818a616c.svg)](https://wakatime.com/@5f667002-f1a2-4d32-a500-1ec6818a616c)
@@ -20,12 +21,9 @@
 <head>
     <meta name="Autor" content="Yan"  />
 </head>
-    <div>
     <h2>
-    <img width="46" src="https://media3.giphy.com/media/7zGDfw3sSQyZycvSM3/giphy.gif?cid=6c09b952f9rk3eo8gbt3dxt9ffr7w2pq3w8levv949wscdfq&rid=giphy.gif&ct=s"/>
     RESUMO
     </h2>
-    </div>
 <li>Olá, prazer me chamo Yan ,✍️</li>
 
 <li>Full Stack Web Developer Engineer pela Driven Education, buscando eficiência sempre nas minhas soluções👾 com mais de 40 projetos no Github e GitLab 👾.</li>
@@ -42,14 +40,13 @@ minhas tarefas sejam feitas de forma ágil, organizada e objetiva para que o res
 
 <li>Além disso, meu sonho é seguir a carreira em especialização DevOps White HAT🎩.</li>
 <li>✉️ Meu e-mail: refwire@gmail.com</li>
-    <section align="center" margin="55px"/>
-    <h2 >
+    <h2 align="center"  style='margin-top: 55px ' >
         <img width="36" src="https://user-images.githubusercontent.com/95008410/203399154-a4af197a-77e8-4337-98b3-b3201ff505e3.gif">
         IDIOMAS
     </h2>
-    <li>Inglês Intermediário</li>
-    <li>Francês Intermediário</li>
-    <li>Espanhol Intermediário</li>
+    <li  align="center">Inglês Intermediário</li>
+    <li  align="center">Francês Intermediário</li>
+    <li  align="center" style='margin-bottom: 55px '>Espanhol Intermediário</li>
 <h2  align="center" width="100%">
     <img width="36"  src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"/>
     Softwares, Languages and Tools:
