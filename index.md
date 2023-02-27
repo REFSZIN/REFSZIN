@@ -21,9 +21,7 @@
 <head>
     <meta name="Autor" content="Yan"  />
 </head>
-    <h2>
-    RESUMO
-    </h2>
+<h2>RESUMO</h2>
 <li>Olá, prazer me chamo Yan ,✍️</li>
 
 <li>Full Stack Web Developer Engineer pela Driven Education, buscando eficiência sempre nas minhas soluções👾 com mais de 40 projetos no Github e GitLab 👾.</li>
@@ -40,14 +38,7 @@ minhas tarefas sejam feitas de forma ágil, organizada e objetiva para que o res
 
 <li>Além disso, meu sonho é seguir a carreira em especialização DevOps White HAT🎩.</li>
 <li>✉️ Meu e-mail: refwire@gmail.com</li>
-    <h2 align="center"  style='margin-top: 55px ' >
-        <img width="36" src="https://user-images.githubusercontent.com/95008410/203399154-a4af197a-77e8-4337-98b3-b3201ff505e3.gif">
-        IDIOMAS
-    </h2>
-    <li  align="center">Inglês Intermediário</li>
-    <li  align="center">Francês Intermediário</li>
-    <li  align="center" style='margin-bottom: 55px '>Espanhol Intermediário</li>
-<h2  align="center" width="100%">
+<h2  align="center" width="100%" style='margin-top: 55px '>
     <img width="36"  src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"/>
     Softwares, Languages and Tools:
 </h2>
@@ -66,3 +57,10 @@ minhas tarefas sejam feitas de forma ágil, organizada e objetiva para que o res
     Visitors Count
 </p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{refszin}/count.svg" />
+    <h2 align="center"  style='margin-top: 55px ' >
+        <img width="36" src="https://user-images.githubusercontent.com/95008410/203399154-a4af197a-77e8-4337-98b3-b3201ff505e3.gif">
+        IDIOMAS
+    </h2>
+    <li  align="center">Inglês Intermediário</li>
+    <li  align="center">Francês Intermediário</li>
+    <li  align="center" style='margin-bottom: 55px '>Espanhol Intermediário</li>
