@@ -1,5 +1,5 @@
 <style>
-    *{
+    * > * *{
         background-color: #323232;
     }
     * > ::-webkit-scrollbar {
