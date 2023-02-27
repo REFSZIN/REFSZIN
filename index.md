@@ -55,6 +55,15 @@ Carreira:
 <h2 style='margin-top: 15px '>Desenvolvedor Freelancer</h2>
 Building Front-end Aplication with Vue.js.
 The first being a pure Vue.js front end product for real estate, connecting to the new API being built by another team.
+
+<h2 style='margin-top: 15px '>Ops IT & Cybersecurity</h2>
+
+DevOps AWS - IaC : Shell para provisionamento de um servidor.
+
+Jornada DevOps de Elite - Kubernetes / Docker / Terraform /  CI/CD  / Prometheus e Grafana
+
+Pentest em Active Directory & Defendendo o Active Directory
+
 <li style='margin-top: 25px '>✉️ Meu e-mail: refwire@gmail.com</li>
 <h2  align="center" width="100%" style='margin-top: 55px '>
     <img width="36"  src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"/>
