@@ -1,6 +1,7 @@
 <style>
-    * > * *{
-        background-color: #323232;
+    *{
+        background-color: ##000000;
+        background: ##000000;
     }
     * > ::-webkit-scrollbar {
         display: none
