@@ -3,6 +3,7 @@
         display: none
     }
 </style>
+
 ![waving](https://capsule-render.vercel.app/api?type=waving&width=100vw&height=100&%20&fontAlignY=40&color=gradient)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=grandient&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+🍷🗿;I'm+22+years+old+✨;I'm+from+Brazil;I'm+a+Full+Stack+Developer+✍;Welcome!+:%29)](https://git.io/typing-svg)<br/>
 
@@ -61,7 +62,7 @@ minhas tarefas sejam feitas de forma ágil, organizada e objetiva para que o res
     <img width="50px" align="left" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
     <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
     <div  align="center">
-    <img  align="center"src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,c,cpp,deno,discord,docker,gcp,github,heroku,instagram,jest,jquery,kubernetes,linkedin,nextjs,prisma,regex,redux,stackoverflow,webpack,gitlab,grafana,prometheus,vue,vite,firebase,redis,java,svelte,idea,gcp,ai,ps,mysql,vim,figma,jenkins,cassandra,cloudflare,emotion,maven,powershell,materialui"/>
+    <img  align="center"src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,c,cpp,deno,discord,docker,gcp,github,heroku,instagram,jest,jquery,kubernetes,linkedin,nextjs,prisma,regex,redux,stackoverflow,webpack,gitlab,grafana,prometheus,vue,vite,firebase,redis,java,svelte,idea,gcp,ai,ps,mysql,vim,figma,jenkins,cassandra,cloudflare,emotion,maven,powershell,materialui">
 </div>
 <br>
                        <img align="left"  src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast&margin-w=15&margin-y=15"/>
@@ -72,3 +73,4 @@ minhas tarefas sejam feitas de forma ágil, organizada e objetiva para que o res
 <div align="center">
 <br><p align="center"><b><img style="display: flex" align="center" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26">Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{refszin}/count.svg" />
+       <img  align="center"src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,c,cpp,deno,discord,docker,gcp,github,heroku,instagram,jest,jquery,kubernetes,linkedin,nextjs,prisma,regex,redux,stackoverflow,webpack,gitlab,grafana,prometheus,vue,vite,firebase,redis,java,svelte,idea,gcp,ai,ps,mysql,vim,figma,jenkins,cassandra,cloudflare,emotion,maven,powershell,materialui">
