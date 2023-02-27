@@ -21,7 +21,7 @@
     <meta name="Autor" content="Yan"  />
 </head>
     <h2>
-        <img width="46" src="https://media3.giphy.com/media/7zGDfw3sSQyZycvSM3/giphy.gif?cid=6c09b952f9rk3eo8gbt3dxt9ffr7w2pq3w8levv949wscdfq&rid=giphy.gif&ct=s">
+    <img width="46" src="https://media3.giphy.com/media/7zGDfw3sSQyZycvSM3/giphy.gif?cid=6c09b952f9rk3eo8gbt3dxt9ffr7w2pq3w8levv949wscdfq&rid=giphy.gif&ct=s"/>
     RESUMO
     </h2>
 <li>Olá, prazer me chamo Yan ,✍️</li>
@@ -40,20 +40,21 @@ minhas tarefas sejam feitas de forma ágil, organizada e objetiva para que o res
 
 <li>Além disso, meu sonho é seguir a carreira em especialização DevOps White HAT🎩.</li>
 <li>✉️ Meu e-mail: refwire@gmail.com</li>
-'    <section align="center" margin="55px" >
-    <h2>
+    <section align="center" margin="55px" >
+    <h2 >
         <img width="36" src="https://user-images.githubusercontent.com/95008410/203399154-a4af197a-77e8-4337-98b3-b3201ff505e3.gif">
         IDIOMAS
     </h2>
-    <li>Inglês Intermediário;</li>
-    <li>Francês Intermediário;</li>
-    <li>Espanhol Intermediário;</li>'
-<h2>
+    <li>Inglês Intermediário</li>
+    <li>Francês Intermediário</li>
+    <li>Espanhol Intermediário</li>
+    </section>
+<h2  align="center" width="100%">
     <img width="36"  src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"/>
     Softwares, Languages and Tools:
 </h2>
+<div align="center">
     <img  align="center" src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,c,cpp,deno,discord,docker,gcp,github,heroku,instagram,jest,jquery,kubernetes,linkedin,nextjs,prisma,regex,redux,stackoverflow,webpack,gitlab,grafana,prometheus,vue,vite,firebase,redis,java,svelte,idea,gcp,ai,ps,mysql,vim,figma,jenkins,cassandra,cloudflare,emotion,maven,powershell,materialui"/>
-<div  align="center">
     <img width="50px" align="left" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
     <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast&margin-w=15&margin-y=15"/>
@@ -66,4 +67,3 @@ minhas tarefas sejam feitas de forma ágil, organizada e objetiva para que o res
     Visitors Count
 </p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{refszin}/count.svg" />
-</div>
