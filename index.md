@@ -61,6 +61,7 @@ minhas tarefas sejam feitas de forma ágil, organizada e objetiva para que o res
     <img  align="center" style='margin-top: 55px ' src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast&margin-w=15&margin-h=15"/>
     <img align="center" style='margin-top: 55px ' src="https://github-profile-trophy.vercel.app/?username=refszin&row=1&column=6&theme=onedark&margin-w=15&margin-h=15"/>
     <img  align="center" style='margin-top: 55px ' src="https://github-readme-stats.vercel.app/api/wakatime?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
+    </div>
     <br>
 <p align="center">
     <img style="display: flex" align="center" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26">
