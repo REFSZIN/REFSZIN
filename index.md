@@ -21,7 +21,6 @@
 <head>
     <meta name="Autor" content="Yan"  />
 </head>
-<img width="60%" heigth="10%" margin-left="20%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
 <h2 style='margin-top: 15px '>RESUMO</h2>
 <li>Olá, prazer me chamo Yan ,✍️</li>
 
