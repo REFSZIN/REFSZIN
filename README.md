@@ -5,7 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/5f667002-f1a2-4d32-a500-1ec6818a616c.svg)](https://wakatime.com/@5f667002-f1a2-4d32-a500-1ec6818a616c)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/yanassis/)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/REFSZIN)
-[![Beacons](https://img.shields.io/badge/-Beacons-060606?style=flat&labelColor=0D0D0D&logo=Beacons&Color=white)](https://beacons.ai/refszin)
+[![Beacons](https://img.shields.io/badge/-Beacons-060606?style=flat&labelColor=0D0D33&logo=Portfolio&Color=white)](https://portfolio-refszin.vercel.app/)
 <li>Hello, nice to meet you, my name is Yan Matheus✍️</li>
 <li> I enjoy to lear and aply the new knowledge to solve mine real problems 🎲</li>
 <li>📄 You can see my CV <a href="https://docs.google.com/gview?url=https://github.com/REFSZIN/REFSZIN/raw/gh-pages/Curriculo%20Yan%20Matheus.pdf&embedded=true" target="_blank">Here</a></li>
