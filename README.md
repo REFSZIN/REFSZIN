@@ -92,7 +92,7 @@ Pentest em Active Directory & Defendendo o Active Directory
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast&margin-w=15&margin-y=15"/>
     <img  align="center" style='margin-top: 55px ' src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast&margin-w=15&margin-h=15"/>
     <img align="center" style='margin-top: 55px ' src="https://github-profile-trophy.vercel.app/?username=refszin&row=1&column=6&theme=onedark&margin-w=15&margin-h=15"/>
-    <img  align="center" style='margin-top: 55px ' src="https://github-readme-stats.vercel.app/api/wakatime?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
+    <! --<img  align="center" style='margin-top: 55px ' src="https://github-readme-stats.vercel.app/api/wakatime?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
     </div>
 <p align="center">
     <br/>
