@@ -86,13 +86,12 @@ Pentest em Active Directory & Defendendo o Active Directory
     Softwares, Languages and Tools:
 </h2>
 <div align="center">
-    <img  align="center" src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,c,cpp,deno,discord,docker,gcp,github,heroku,instagram,jest,jquery,kubernetes,linkedin,nextjs,prisma,regex,redux,stackoverflow,webpack,gitlab,grafana,prometheus,vue,vite,firebase,redis,java,svelte,idea,gcp,ai,ps,mysql,vim,figma,jenkins,cassandra,cloudflare,emotion,maven,powershell,materialui"/>
+    <img  align="center" src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,mongo,styledcomponents,postgresql,vercel,angular,aws,bash,bootstrap,c,cpp,deno,discord,docker,gcp,github,heroku,instagram,jest,jquery,kubernetes,linkedin,nextjs,prisma,regex,redux,stackoverflow,webpack,gitlab,grafana,prometheus,vue,vite,firebase,redis,java,svelte,idea,gcp,ai,ps,mysql,vim,figma,jenkins,cassandra,cloudflare,emotion,maven,powershell,materialui,coffeescript,eclipse,githubactions,md,postman,remix,svg,threejs"/>
     <img width="50px" align="left" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
     <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast&margin-w=15&margin-y=15"/>
     <img  align="center" style='margin-top: 55px ' src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast&margin-w=15&margin-h=15"/>
-    <img align="center" style='margin-top: 55px ' src="https://github-profile-trophy.vercel.app/?username=refszin&row=1&column=6&theme=onedark&margin-w=15&margin-h=15"/>
-    <! --<img  align="center" style='margin-top: 55px ' src="https://github-readme-stats.vercel.app/api/wakatime?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
+    <img  align="center" style='margin-top: 55px ' src="https://github-readme-stats.vercel.app/api/wakatime?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
     </div>
 <p align="center">
     <br/>
