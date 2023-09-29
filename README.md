@@ -91,6 +91,7 @@ Pentest em Active Directory & Defendendo o Active Directory
     <img width="50px" align="right" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=refszin&show_icons=true&theme=highcontrast&margin-w=15&margin-y=15"/>
     <img  align="center" style='margin-top: 55px ' src="https://github-readme-stats.vercel.app/api/top-langs/?username=refszin&layout=compact&hide=php&theme=highcontrast&margin-w=15&margin-h=15"/>
+    <div style="display: flex" align="center">
     <img  align="center" style='margin-top: 55px ' src="https://github-readme-stats.vercel.app/api/wakatime?username=refszin&layout=compact&hide=php&theme=highcontrast"/>
     </div>
 <p align="center">
