@@ -5,7 +5,7 @@
 </style>
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&width=100vw&height=100&%20&fontAlignY=40&color=gradient)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=grandient&size=45&center=true&vCenter=true&width=1000&lines=Hello+There+🍷🗿;I'm+22+years+old+✨;I'm+from+Brazil;I'm+a+Full+Stack+Developer+✍;Welcome!+:%29)](https://git.io/typing-svg)<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=grandient&size=45&center=true&vCenter=true&width=1000&lines=Hello+There+🍷🗿;I'm+24+years+old+✨;I'm+from+Brazil;I'm+a+Full+Stack+Developer+✍;Welcome!+:%29)](https://git.io/typing-svg)<br/>
 
 ### Contact-me
 
