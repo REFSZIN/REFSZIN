@@ -1,5 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&width=100%&height=200&text=REFSZIN%20&fontAlignY=40&color=gradient)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=grandient&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+🍷🗿;I'm+22+years+old+✨;I'm+from+Brazil;I'm+a+Full+Stack+Developer+✍;Welcome!+:%29)](https://git.io/typing-svg)<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=grandient&size=35&center=true&vCenter=true&width=1000&lines=Hello+There+🍷🗿;I'm+24+years+old+✨;I'm+from+Brazil;I'm+a+Full+Stack+Developer+✍;Welcome!+:%29)](https://git.io/typing-svg)<br/>
 ### Contact-me
 
 [![wakatime](https://wakatime.com/badge/user/5f667002-f1a2-4d32-a500-1ec6818a616c.svg)](https://wakatime.com/@5f667002-f1a2-4d32-a500-1ec6818a616c)
